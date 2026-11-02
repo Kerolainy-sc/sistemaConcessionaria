@@ -4,9 +4,9 @@
 
 *Este projeto consiste em um sistema de console desenvolvido em **Linguagem C** para automatizar o fluxo de atendimento, cadastro de clientes e análise preliminar de crédito financeiro em uma concessionária automotiva.*
 
-O sistema avalia a capacidade financeira do cliente em relação ao modelo de veículo selecionado, aplicando parâmetros percentuais sobre a renda mensal informada e gerando relatórios quantitativos consolidados ao término das operações.
+*O sistema avalia a capacidade financeira do cliente em relação ao modelo de veículo selecionado, aplicando parâmetros percentuais sobre a renda mensal informada e gerando relatórios quantitativos consolidados ao término das operações.*
 
----
+
 
 ## ╰┈➤ Funcionalidades
 
