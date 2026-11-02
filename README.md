@@ -39,14 +39,6 @@ O sistema avalia a capacidade financeira do cliente em relação ao modelo de ve
 - Emprego de desvios condicionais com `switch-case` para o catálogo e códigos de status.
 - Gerenciamento adequado do buffer de entrada do teclado (`getchar()`) para mitigar conflitos entre leituras numéricas (`scanf`) e textuais (`fgets`).
 ````
----
-
-## 🚀 Como Executar
-
-### Pré-requisitos
-Certifique-se de ter um compilador de C instalado em sua máquina (como `gcc` ou `clang`).
-
-### Passos:
 1. Clone o repositório ou baixe o arquivo fonte (`.c`).
 2. Abra o terminal na pasta onde o arquivo está salvo.
 3. Compile o código:
